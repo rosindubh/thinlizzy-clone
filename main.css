@@ -18,7 +18,7 @@ body{
     display: flex;
     justify-content: center;
     padding-top: 3px;
-    padding-bottom: 15px;
+    padding-bottom: 17px;
 }
 
 header{
@@ -42,6 +42,14 @@ p {
 }
 
 p .para1 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p .para2 {
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -76,6 +84,9 @@ p .para1 {
 }
 
 .links {
-    padding-top: 45px;
+    padding-top: 40px;
 }
     
+.para1 {
+    padding-bottom: 3px;
+}
