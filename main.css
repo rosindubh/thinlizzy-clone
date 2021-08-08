@@ -6,10 +6,13 @@
 
 body{
     background-color: black;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .title {
-    color: white;
+    color: #a59494;
+    font-size: 20px;
 }
 
 p {
@@ -20,8 +23,21 @@ p {
     /*background-color: white;*/
     color: #c41c00;
     text-decoration: none;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .grey {
-    color:#8a8a8a
+    color: #8a8a8a;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+links {
+    color: white;
 }
