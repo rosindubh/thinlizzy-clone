@@ -30,6 +30,8 @@ header{
 
 p {
     color: white;
+    display: flex;
+    justify-content: center;
 }
 
 .links a {
@@ -41,6 +43,13 @@ p {
     line-height: normal;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+
+.links {
+    /*background-color: white;*/
+    color: white;
+    display: flex;
+    justify-content: center;
 }
 
 .grey {
