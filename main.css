@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.title {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.links a {
+    /*background-color: white;*/
+    color: #c41c00;
+    text-decoration: none;
+}
+
+.grey {
+    color:#8a8a8a
+}
