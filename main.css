@@ -18,6 +18,7 @@ body{
     display: flex;
     justify-content: center;
     padding-top: 3px;
+    padding-bottom: 15px;
 }
 
 header{
@@ -32,6 +33,20 @@ p {
     color: white;
     display: flex;
     justify-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+}
+
+p .para1 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .links a {
@@ -58,5 +73,9 @@ p {
     font-weight: bold;
     line-height: 16px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    padding-top: 45px;
 }
     
